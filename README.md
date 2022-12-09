@@ -6,7 +6,12 @@
 ## Installation
 
 1. Get popclip app from app store.
-2. Double click RemoveLineBreaks.popclipext. 
+2. Download Zip file from Github.
+3. Double click RemoveLineBreaks.popclipext. 
+
+
+
+If it does not work, probably path to php is wrong. Open noLineBreaks.php and change the 1st line to your executable php path.
 
 
 
