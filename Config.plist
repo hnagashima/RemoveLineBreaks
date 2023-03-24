@@ -8,7 +8,7 @@
 			<key>After</key>
 			<string>paste-result</string>
 			<key>Script Interpreter</key>
-			<string>/usr/local/opt/php/bin/php</string>
+			<string>/opt/homebrew/bin/php</string>
 			<key>Shell Script File</key>
 			<string>noLineBreaks.php</string>
 			<key>Title</key>
